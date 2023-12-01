@@ -1,6 +1,4 @@
-# Ecommerce-React-App
-
-##To run this code in your local system - 
+# To run this code in your local system - 
 
 step 1- npm i
 
